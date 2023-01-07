@@ -34,11 +34,55 @@
 
 <br>
 
-# Installation
+## Installation
 
 <br>
 
 Clone the repository to your local machine, open your terminal, and navigate to the root folder in the **Just Another Text Editor** repository. To install the necessary dependencies, run `npm i` in your command-line terminal. Repeat the process 2 more times, first navigating to `just-another-text-editor/client` and then navigating to `just-another-text-editor/server`. For offline functionality, head to `https://just-another-text-editor-0206.herokuapp.com`, press the **Install!** button in the upper-left corner and save it to your device!
+
+<br>
+
+## Usage
+
+<br>
+
+The following image demonstrates the application's functionality:
+
+<br>
+
+![The Application's Functionality](assets/application-functionality.png)
+
+<br>
+
+The following image shows the application's manifest.json file:
+
+<br>
+
+![manifest.json File](assets/manifest.png)
+
+<br>
+
+The following image shows the application's registered service worker:
+
+<br>
+
+![Registered Service Worker](assets/service-worker.png)
+
+<br>
+
+The following image shows the application's IndexedDB storage:
+
+<br>
+
+![IndexedDB Storage](assets/index-storage.png)
+
+<br>
+
+The following image shows the application's offline functionality:
+
+<br>
+
+![The Application's Offline Functionality](assets/offline.png)
 
 <br>
 
