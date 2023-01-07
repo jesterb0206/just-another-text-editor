@@ -1,3 +1,35 @@
+# Just Another Text Editor
+
+<br>
+
+## License
+
+<br>
+
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+
+<br>
+
+[This application is under the Unlicense](http://unlicense.org/)
+
+<br>
+
+## Deployment Link
+
+<br>
+
+[Deployment](https://just-another-text-editor-0206.herokuapp.com)
+
+<br>
+
+☝🏻 Click there!
+
+<br>
+
+## Table of Contents
+
+<br>
+
 ## Badges
 
 <br>
